@@ -10,28 +10,31 @@
 
 📌 Overview
 
-The Mentor-Mentee Skill Tracking App is a structured platform that facilitates effective mentorship. It enables mentees to track their skills, complete assigned learning tasks, and manage their certifications while mentors provide guidance, assign tasks, and give constructive feedback. The system promotes skill development through structured learning goals and performance tracking, ensuring mentees receive targeted support from their mentors.
+The Mentor-Mentee Skill Tracking App is a structured platform that facilitates effective mentorship. 
+It enables mentees to track their skills, complete assigned learning tasks, and manage their certifications 
+while mentors provide guidance, assign tasks, and give constructive feedback. The system promotes skill development 
+through structured learning goals and performance tracking, ensuring mentees receive targeted support from their mentors.
 
 🎯 Features
 
-User Authentication (Mentor & Mentee roles)
+ .User Authentication (Mentor & Mentee roles)
 
 Mentees:
 
-Track skills & progress
+ .Track skills & progress
 
-Request mentors
+ .Request mentors
 
-Complete assigned tasks
+ .Complete assigned tasks
 
-Upload certifications
+ .Upload certifications
 
-Receive feedback
+ .Receive feedback
 
 Mentors:
 
-Manage mentee requests
+ .Manage mentee requests
 
-Assign tasks & track progress
+ .Assign tasks & track progress
 
-Provide feedback
+ .Provide feedback
